@@ -4,7 +4,7 @@ title: Media
 ---
 ## Papers
 
-[Artificia 2021: An Exploration of 3 Japanese Stories](https://www.artificia.pro/an-exploration-of-3-japanese-stories-premiere/)
+[Artificia AI & Arts 2021: An Exploration of 3 Japanese Stories](https://www.artificia.pro/an-exploration-of-3-japanese-stories-premiere/)
 
 [NIME 2020: Exploring Identity Through Design: A Focus on the Cultural Body Via Nami](https://www.nime.org/proceedings/2020/nime2020_paper109.pdf)
 

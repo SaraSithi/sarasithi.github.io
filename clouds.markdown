@@ -6,7 +6,7 @@ layout: home
 title: Sound UX
 ---
 
-Currently, I'm the Music Programming Manager at Cloud Cover Music. I've worked at this leading B2B music service provider for the past 6 years and some of the most interesting work has been developing the signature sound experiences and playlists for a number of the most well-known North American brands. I can't share any specifics, however, if you've been at a local restaurant, mall, grocery store, or gym, you've likely heard some of my work here and there! 
+Currently, I'm the Music Programming Manager at Cloud Cover Music. I've worked at this leading B2B background music SaaS solution provider for the past 6 years and some of the most interesting work has been developing the signature sound experiences and playlists for a number of the most well-known North American brands. I can't share any specifics, however, if you've been at a local restaurant, mall, grocery store, or gym, you've likely heard some of my work here and there! 
 
 
 During my time at Cloud Cover Music, I developed the proprietary _Cloud Cover Music Brand Sound Process_. This process allows all of our important stakeholders to have insight and a say into the development of their personalized sound experience. 

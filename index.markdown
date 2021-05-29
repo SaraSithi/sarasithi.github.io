@@ -12,7 +12,7 @@ title: Nami
 
 <div class="words-and-video">
 <p>
-Nami is outfitted on the performer's (user) left hand leaving the right hand available for playing an instrument (trumpet). In real-time the performer can manage multiple controls exploring, expanding, and amplifying the trumpet sound in the left hand. 
+Nami is outfitted on the performer's (user) left hand leaving the right hand available for playing an instrument (trumpet). In real-time the performer can manage multiple controls exploring, expanding, and processing the instrument (trumpet) sound in the left hand. 
 <br>
 <br>
 The Japanese word “nami” means “wave.” In the musical and social context it can be interpreted as an embodiment of life experiences expressed in each musical beat that is free flowing and unrestricted by bar lines. As a designer, I want Nami to be flexible and adaptable, and for various iterations of Nami to exist that embrace a variety of cultural bodies (embodied experiences) and their respective cross-cultural gestural vocabularies.
@@ -48,7 +48,7 @@ I wanted to develop a new interface for trumpet that allows the user to freely e
 </div>
 
 ### User Profile
-At first, Nami was created for myself as a trumpet player and as an interface in which I could manipulate my acoustic trumpet sound in-real time. The gestures I used would not only trigger, synthesize or otherwise control sound, but they would also tell a story. This storytelling would draw from my cultural body (embodied experiences) which are not limited to the following identity descriptors: performer, trumpet player, composer, improviser, and Nikkei (Japanese American)
+At first, Nami was created for myself as a trumpet player and as an interface in which I could manipulate my acoustic trumpet sound in-real time. The gestures I used would not only trigger, synthesize or otherwise control sound, but they would also tell a story. This storytelling would draw from my cultural body (embodied experiences) which are not limited to the following identity descriptors: performer, trumpet player, composer, improviser, and Nikkei (Japanese American).
 
 ### Gestures
 Existing augmented trumpet interfaces have largely depended upon traditional effective gestures including valve pressing in the right hand, extending the first or third valves slides or utilizing various mutes and their accompanying gestures with the left hand. Nami is unique in that it privileges the exploration of accompanist and figurative gesture while allowing the performer access to multiple simultaneous controls. 
@@ -57,12 +57,14 @@ Existing augmented trumpet interfaces have largely depended upon traditional eff
 This is a glove interface that uses sensor technology to capture gestural data such as finger flexing and finger pressure to offer extended control and expressivity to performers through manipulation of acoustic and/or electronic sounds (for example, through signal processing or spatialization.) The output is MIDI data that can be mapped to any parameter within Ableton Live or any other DAW.
 
 ## Concept
-![Poieto Concept Phase](/assets/images/poieto_concept.png)
+
+![Poieto Concept Phase](/assets/images/poieto_concept_alt.png)
+
 During the Concept phase, I focused on _interaction design_ - setting up a relationship between my input and the rules, whether it was an algorithm, model or mappings. 
 
 ### Types of Mappings
 I used Embodied Design Improvisation as the basis for exploring and creating a set of gestural vocabulary. This is a generative and evaluative approach to use tacit knowledge about embodied experiences. 
-1. Establish various physical scenario guidelines to explore (i.e. "The user can only move in x and y directions")
+1. Establish various physical scenario guidelines to explore (i.e. "The user can only move in x and y directions.")
 2. Iterate multiple movement possibilities (i.e. What gestures can I create within these restrictions? )
 3. Develop initial set of requirements to improve design (i.e. Are these the right sensors/materials to accomplish this gesture?)
 
@@ -72,7 +74,7 @@ During the Critical Thinking, I continued to iterate and developed versions of N
 - Little Tokyo artist community in Downtown Los Angeles through _Festival of Shadows_ utilizing movement from butoh and somatic movement practice
 - Local Pasadena, Los Angeles maker community for the SupplyFrame Design Lab and CalArts AI.Culture.Creativity event and week
 
-![Poieto Cultural Lens](/assets/images/Poieto_cultural_lense.png)
+![Poieto Cultural Lens](/assets/images/cultural_lense.png)
 
 <div class="iteration-imgs">
   <img src="/assets/images/Festival_of_Shadows_1.jpg"/>
