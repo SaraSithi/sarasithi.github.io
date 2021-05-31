@@ -11,5 +11,5 @@ title: Media
 [NIME 2018: Women Who Build Things: Gestural Controllers, Augmented Instruments, and Musical Mechatronics](https://www.nime.org/proceedings/2018/nime2018_paper0038.pdf)
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S2qHmH2z9VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0sz71JaVmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" src="https://www.youtube.com/embed/S2qHmH2z9VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" src="https://www.youtube.com/embed/C0sz71JaVmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
